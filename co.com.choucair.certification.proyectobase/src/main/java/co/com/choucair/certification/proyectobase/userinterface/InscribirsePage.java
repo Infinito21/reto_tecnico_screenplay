@@ -1,10 +1,9 @@
 package co.com.choucair.certification.proyectobase.userinterface;
 
-import net.serenitybdd.core.pages.PageObject;
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;
 
-public class InscribirsePage extends PageObject {
+public class InscribirsePage {
 
     public static final Target INPUT_FIRST_NAME = Target.the("Ingresar nombres")
             .located(By.id("firstName"));

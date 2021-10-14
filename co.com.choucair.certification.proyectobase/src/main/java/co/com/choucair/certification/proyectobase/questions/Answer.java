@@ -6,9 +6,10 @@ import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.questions.Text;
 
 public class Answer implements Question<Boolean> {
+    private static String msj;
 
-
-    public static Answer toThe() {
+    public static Answer toThe(String verification) {
+        msj = verification;
         return new Answer();
     }
 
@@ -16,7 +17,7 @@ public class Answer implements Question<Boolean> {
     @Override
     public Boolean answeredBy(Actor actor) {
         boolean result;
-        String msj = "First, please check your email inbox";
+
         String msjConfirm = Text.of(InscribirsePage.MSJ_CONFIRM).viewedBy(actor).asString();
         if(msj.equals(msjConfirm)){
             result = true;
