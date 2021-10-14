@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e548524-8713-49cf-8d66-e98593377994" name="Default Changelist" comment="Implementacion de datadriven">
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/proyectobase/model/UTestData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/proyectobase/questions/Answer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/proyectobase/questions/Answer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/proyectobase/tasks/Inscribirse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/proyectobase/tasks/Inscribirse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/proyectobase/userinterface/InscribirsePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/proyectobase/userinterface/InscribirsePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/proyectobase/userinterface/UTestRegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/proyectobase/userinterface/UTestRegisterPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/proyectobase/stepdefinitions/UTestStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/proyectobase/stepdefinitions/UTestStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/uTest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/uTest.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-fd8f08efa3a1cff30af050e8c44a195a39cb9c299e227f1b87478718f273ee26.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-fd8f08efa3a1cff30af050e8c44a195a39cb9c299e227f1b87478718f273ee26.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/fd8f08efa3a1cff30af050e8c44a195a39cb9c299e227f1b87478718f273ee26.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/fd8f08efa3a1cff30af050e8c44a195a39cb9c299e227f1b87478718f273ee26.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/fd8f08efa3a1cff30af050e8c44a195a39cb9c299e227f1b87478718f273ee26.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/fd8f08efa3a1cff30af050e8c44a195a39cb9c299e227f1b87478718f273ee26.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/fd8f08efa3a1cff30af050e8c44a195a39cb9c299e227f1b87478718f273ee26_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/fd8f08efa3a1cff30af050e8c44a195a39cb9c299e227f1b87478718f273ee26_screenshots.html" afterDir="false" />
-    </list>
+    <list default="true" id="0e548524-8713-49cf-8d66-e98593377994" name="Default Changelist" comment="Implementacion de datadriven" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
